@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB50EAB30200241313BF662F7D37324B53FEBFB3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FB50EAB30200241313BF662F7D37324B53FEBFB3" : 9223372036854775807,
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F5C074A4-CD24-4229-B172-438CBA91B2A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FB50EAB30200241313BF662F7D37324B53FEBFB3" : "BarChart\/",
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BarChart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BarChart\/BarChart.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/LiHongGui-GitHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/BarChart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB50EAB30200241313BF662F7D37324B53FEBFB3"
+    }
+  ]
+}
